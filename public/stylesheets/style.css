@@ -10,13 +10,14 @@
     -ms-flex: 0 0 83.333333%;
     flex: 0 0 83.333333%;
     max-width: 83.333333%;
+    color: #fff;
    padding: 130px;
    margin-top: 20px;
     background: linear-gradient(60deg, #002cff, transparent);
 }
 
 a {
-  color: #000000;
+  color: #fff;
   text-decoration: none;
   background: linear-gradient(60deg, #002cff, transparent);
   font-size: 19px;
